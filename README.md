@@ -31,9 +31,9 @@ Conocimientos adquiridos sobre Testing:
 ## Mi trabajo
 * **Proyecto final de Jovenes a Programar (JaP)**
 
-Durante mi participación en el programa de capacitación de Jóvenes a Programar (JaP), pude trabajar en un desafiante proyecto final que me permitió desarrollar aún más mis habilidades como tester de software. El proyecto consistió en realizar diversas tareas, entre ellas, la elaboración de casos de prueba, la gestión de incidentes, creación de informes de pruebas, la especificación de requerimientos y la ejecución de pruebas utilizando la técnica de testing de caja negra.
+Durante mi participación en el programa de capacitación de Jóvenes a Programar (JaP), pude trabajar en un proyecto final que me permitió desarrollar aún más mis habilidades como tester de software. El proyecto consistió en realizar diversas tareas, entre ellas, la elaboración de casos de prueba, la gestión de incidentes, creación de informes de pruebas, la especificación de requerimientos y la ejecución de pruebas utilizando la técnica de testing de caja negra.
 
-Este proyecto fue diseñado en base a una empresa ficticia que nos fue presentada por los instructores de JaP. Al ser una tarea compleja y detallada, requirió de una planificación cuidadosa y una ejecución rigurosa para asegurar que los objetivos del proyecto fueran alcanzados. Gracias a mi participación en este proyecto, pude aplicar mis conocimientos adquiridos en el curso de JaP y demostrar mi capacidad para trabajar en equipo, resolver problemas y lograr los resultados esperados.
+Este proyecto fue diseñado en base a una empresa ficticia que solicitaba un testeo de su pagina web la cual nos fue presentada por los instructores de JaP. Gracias a mi participación en este proyecto, pude aplicar los conocimientos adquiridos en el curso y demostrar mi capacidad para trabajar en equipo, resolver problemas y lograr los resultados esperados en tiempo y forma.
 
 A continuación, les proporciono los documentos que elaboré para este proyecto con el fin de mostrarles mi compromiso y dedicación para cumplir con los objetivos del mismo:
 
