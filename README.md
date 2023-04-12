@@ -16,7 +16,7 @@ Soy una persona que posee facilidad para adaptarse, organizada, puntual y siempr
 ## Mi trabajo
 Proyecto final de Jovenes a Programar (JaP)
 
-La propuesta de el proyecto a realizar fue el realizar los casos de prueba, gestion de incidentes, informe de pruebas y especificacion de requerimientos para una empresa ficcticia propuesta por el equipo de Jovenes a programar.
+* La propuesta de el proyecto a realizar fue el realizar los casos de prueba, gestion de incidentes, informe de pruebas y especificacion de requerimientos para una empresa ficcticia propuesta por el equipo de Jovenes a programar.
 
 * [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html):
   * [Casos de Prueba y Particiones de equivalencia] (https://docs.google.com/spreadsheets/d/1TvAI0-lH8PBjy4GQQio73aG94dBqO4by/edit?usp=sharing&ouid=107183030558778130826&rtpof=true&sd=true)
