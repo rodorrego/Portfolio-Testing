@@ -1,6 +1,6 @@
 # Portfolio-Testing
 ## Sobre mí
-Mi nombre es Romina Dorrego, soy una Tester Jr con mas de 4 meses de experiencia en la realización de pruebas de calidad de manera autonoma tanto en la plataforma Utest como en la plataforma TestBirds, realizando en su gran mayoria testing exploratorio y reportes de incidentes.
+Mi nombre es Romina Dorrego, soy Tester Jr con mas de 4 meses de experiencia en la realización de pruebas de calidad de manera autonoma tanto en la plataforma Utest como en la plataforma TestBirds, realizando en su gran mayoria testing exploratorio y reportes de incidentes.
 
 Me apasiona el mundo de la tecnología, Soy una persona organizada, puntual y comprometida con mi trabajo, siempre me esfuerzo por realizar el mejor trabajo que me sea posible, disfruto de trabajar en equipo y estoy abierta a siempre aprender de los demas y a poder transmitir mis conocimientos siempre que me sea posible. 
 
