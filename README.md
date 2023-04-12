@@ -14,7 +14,7 @@ Soy una persona que posee facilidad para adaptarse, organizada, puntual y siempr
 * MantisBT
 
 ## Mi trabajo
-* Proyecto final de Jovenes a Programar (JaP)
+* **Proyecto final de Jovenes a Programar (JaP)**
 
 La propuesta de el proyecto a realizar fue el realizar los casos de prueba, gestion de incidentes, informe de pruebas y especificacion de requerimientos para una empresa ficcticia propuesta por el equipo de Jovenes a programar.
 
