@@ -1,11 +1,4 @@
 # Portfolio-Testing
-## Sobre mí
-Mi nombre es Romina Dorrego, soy Tester Jr con mas de 4 meses de experiencia en la realización de pruebas de calidad de manera autonoma en la plataforma Utest, realizando en su gran mayoria testing exploratorio y reportes de incidentes.
-
-Me apasiona el mundo de la tecnología, Soy una persona organizada, puntual y comprometida con mi trabajo, siempre me esfuerzo por realizar el mejor trabajo que me sea posible, disfruto de trabajar en equipo y estoy abierta a siempre aprender de los demas y a poder transmitir mis conocimientos siempre que me sea posible. 
-
-Siempre estoy buscando nuevas oportunidades para aprender y crecer en el campo de la tecnología, actualmente aprendiendo de manera autonoma diferentes lenguajes de programacion o profundizando el conocimiento ya adquirido en el manejo de estos lenguajes o de otro tipo de herramientas que son relevantes mi crecimiento profesional.
-
 
 ## Cursos
 * **Tester de Software - Jóvenes a Programar (230hs):**
