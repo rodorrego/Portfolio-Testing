@@ -1,6 +1,6 @@
-# Proyecto final de Jovenes a Programar (JaP)
+# Evaluación final: Proyecto de Testing en Jóvenes a Programar
 
-## Cursos
+## Sobre mi curso
 * **Tester de Software - Jóvenes a Programar (230hs):**
 
 Conocimientos adquiridos sobre programación:  
@@ -18,7 +18,6 @@ Conocimientos adquiridos sobre Testing:
 * Testlink
 * Jira
 * MantisBT
-* MySQL
 * SQL Server
 
 ## Mi trabajo
