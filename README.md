@@ -1,4 +1,4 @@
-# Portfolio-Testing
+# Proyecto final de Jovenes a Programar (JaP)
 
 ## Cursos
 * **Tester de Software - Jóvenes a Programar (230hs):**
